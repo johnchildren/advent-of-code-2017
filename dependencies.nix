@@ -1,0 +1,5 @@
+{ haskellPackages }:
+
+with haskellPackages; [
+  vector
+]
